@@ -1,7 +1,9 @@
 # Hey 👋, Ashtavinayak here
 
 <p align='center'>
-  <img src='https://ashtavinayaksoftsolution.in/public/images/AV.png' alt='avs' />
+  <a href='https://ashtavinayaksoftsolution.in/'>
+    <img src='https://ashtavinayaksoftsolution.in/public/images/AV.png' alt='avs' />
+  </a>
 </p>
 
 ### What We Do :
