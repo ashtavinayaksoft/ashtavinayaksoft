@@ -1,5 +1,9 @@
 # Hey 👋, Ashtavinayak here
 
+<p align='center'>
+  <img src='https://ashtavinayaksoftsolution.in/public/images/AV.png' alt='avs' />
+</p>
+
 ### What We Do :
 We create business Websites, Software, Apps with Passion. We are working with companies to grow their business with a modern technologies.
 
